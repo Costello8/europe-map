@@ -17,3 +17,5 @@ You're free to use it in any of your projects, commercial or otherwise. No attri
 The original map was created using the D3 framework (https://d3js.org). Shape files were obtained from Natural Earth http://www.naturalearthdata.com
 
 The projection used is an Lambert azimuthal equal-area projection. This projection is recommended by Eurostat. It preserves areas but introduces distorsions in angles
+
+The PNG format is included in the repository to allow you to preview the blank map. in case you don't have illustrator. 
